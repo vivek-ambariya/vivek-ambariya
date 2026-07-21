@@ -5,6 +5,11 @@ Computer Engineering Student • Full Stack Developer • Python Enthusiast
 </h3>
 
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Computer+Engineering+Student;Full+Stack+Developer;Python+Developer;Always+Learning+New+Things"/>
+</p>
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VivekAmbariya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_vivek_21_p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vivek-ambariya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vivek_21_p) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vivekambaria@gmail.com) 
 
