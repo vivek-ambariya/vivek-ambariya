@@ -47,5 +47,5 @@ Computer Engineering Student • Full Stack Developer • Python Enthusiast
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vivek-ambariya/vivek-ambariya/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://github.com/vivek-ambariya/vivek-ambariya/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="Snake animation" />
 </p>
