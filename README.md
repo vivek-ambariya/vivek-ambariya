@@ -20,12 +20,17 @@ Computer Engineering Student • Full Stack Developer • Python Enthusiast
 # 📊 GitHub Stats
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.shion.dev/api?username=vivek-ambariya&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="49%" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivek-ambariya&layout=compact&theme=dark&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="165" src="https://github-readme-stats.shion.dev/api?username=vivek-ambariya&theme=tokyonight&show_icons=true&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=vivek-ambariya&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=vivek-ambariya&theme=dark&hide_border=true"/>
+
+<img width="550" src="https://streak-stats.demolab.com?user=vivek-ambariya&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -33,29 +38,41 @@ Computer Engineering Student • Full Stack Developer • Python Enthusiast
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vivek-ambariya&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=vivek-ambariya&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
 </p>
 
 ---
 
-# ✍️ Random Dev Quote
+# 🌟 Featured Projects
+
+| Project | Description |
+
+|----------|-------------|
+
+| 🚀 Workizo | A Service Company |
+
+| 📦 Boxy | Smart Parcel Delivery |
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vivek-ambariya&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🔝 Top Contributed Repo
+# 💬 Random Dev Quote
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vivek-ambariya&limit=5&theme=dark&combine_all_yearly_contributions=true"/>
-</p>
 
----
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivek-ambariya&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 </p>
 
 ## 👨‍💻 About Me
