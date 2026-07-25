@@ -72,6 +72,16 @@ Computer Engineering Student • Full Stack Developer • Python Enthusiast
 
 ---
 
+# Github Trophies
+
+<p align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+
+</p>
+
+---
+
 # 💬 Random Dev Quote
 
 <p align="center">
