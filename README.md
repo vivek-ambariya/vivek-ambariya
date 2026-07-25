@@ -76,7 +76,8 @@ Computer Engineering Student • Full Stack Developer • Python Enthusiast
 
 <p align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+[![GitHub Profile Trophies](https://github-profile-trophy.vercel.app/?username=vivek-ambariya&theme=onedark&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 </p>
 
